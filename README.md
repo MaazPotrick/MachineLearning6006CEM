@@ -15,6 +15,8 @@ To access the SVM Classifier code, check "strokeprediction_svm(notuning).py" and
 To access the Random Forest Classifier code, check "strokepred_randomforest(notuning).py" and "strokepred_randomforest(tuning).py" file.
 
 
-The datasets are uploaded in the "datasets" folder in this repository. 
+The datasets are uploaded in the "datasets" folder in this repository. If the datasets in the folder are not able to show up, you can either click on "view raw" in that folder, or visit the link below -
+Daily temp - https://www.kaggle.com/datasets/sudalairajkumar/daily-temperature-of-major-cities?resource=download 
+Stroke prediction - https://www.kaggle.com/code/rishabh057/healthcare-dataset-stroke-data/input 
 
 Thank you
